@@ -1,6 +1,6 @@
-import Duck.Behavior.FlyRocketPowered;
-import Duck.ModelDuck;
-import Duck.Duck;
+import Strategy.Behavior.FlyRocketPowered;
+import Strategy.ModelDuck;
+import Strategy.Duck;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

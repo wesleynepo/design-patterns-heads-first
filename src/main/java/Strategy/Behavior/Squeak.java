@@ -1,4 +1,4 @@
-package Duck.Behavior;
+package Strategy.Behavior;
 
 public class Squeak implements QuackBehavior{
 

@@ -1,7 +1,7 @@
-package Duck;
+package Strategy;
 
-import Duck.Behavior.FlyWithWings;
-import Duck.Behavior.Squeak;
+import Strategy.Behavior.FlyWithWings;
+import Strategy.Behavior.Squeak;
 
 public class RedheadDuck extends Duck {
     public RedheadDuck() {

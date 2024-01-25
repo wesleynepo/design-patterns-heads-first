@@ -1,4 +1,4 @@
-package Duck.Behavior;
+package Strategy.Behavior;
 
 /**
  * Defines the behavior of flying for ducks.
